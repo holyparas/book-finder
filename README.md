@@ -27,7 +27,10 @@ You can search by **title** or **author**, view book details (cover, authors, pu
 Clone the repository and install dependencies and then view locally by "npm run dev":
 
 git clone https://github.com/your-username/book-finder.git
+
 cd book-finder
+
 npm install
+
 npm run dev
 
